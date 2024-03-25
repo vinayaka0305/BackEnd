@@ -10,5 +10,5 @@ console.log(global.sub(10,5));
 // to run this we have put that particular file where we are calling and consoling
 //here index is the main file because here we are importing
 //index is the main module and helper is the sub module
-//sub file is importing inside the main file
+//sub file is importing inside the main file    
 
